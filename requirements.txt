@@ -1,0 +1,7 @@
+scipy==1.4.1
+numpy==1.18.1
+pandas==0.25.3
+requests==2.22.0
+imutils==0.5.3
+Pillow==7.1.2
+skimage==0.0
